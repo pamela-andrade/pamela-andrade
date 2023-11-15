@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Atualmente estou trabalhando na área de Analista de Suporte de TI.
-- 🌱 Estudando FrontEnd.
+- 🌱 Estudando FrontEnd e Analise de Dados.
 
 ![Pamela Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=pamela-andrade&show_icons=true&theme=neon)
 
