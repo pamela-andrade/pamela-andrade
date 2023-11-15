@@ -18,6 +18,7 @@
   <img align="center" alt="Pam-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Pam-Photoshop" height="30" width="130" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Pam-VScode" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Pam-VScode" height="30" width="25" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/Power-BI.png">
 </div>
   
   ## Contato 
